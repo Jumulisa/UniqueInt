@@ -56,7 +56,7 @@ class UniqueInt:
                 output_file.write(f"{number}\n")
 
 if __name__ == "__main__":
-    input_folder = "/root/UniqueInt/inputs"
+    input_folder = "/root/UniqueInt/Inputs"
     output_folder = "/root/UniqueInt/Output"
     
     unique_int_processor = UniqueInt()
