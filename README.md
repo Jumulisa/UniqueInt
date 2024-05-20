@@ -11,9 +11,11 @@ The Unique Integer Processor is a  Javascript program designed to process text f
 - Provides basic error handling for invalid input lines and out-of-range integers.
 ------------------------------------------------------------------------------------------------------------------------------------------
 ## Usage
-1. Ensure you have Python installed on your system.
+1. Ensure you have node library for javascript installed on your system.
 2. Clone or download the repository containing the Unique Integer Processor script.
 3. Navigate to the directory containing the script in your terminal or command prompt.
+4. Run the script
+5. you can even change the inputh path you want for inputs in the codes
 ------------------------------------------------------------------------------------------------------------------------------------------
 ### Running the Script
 Execute the script using the following command:
